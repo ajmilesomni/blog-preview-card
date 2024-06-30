@@ -27,7 +27,12 @@ h1:hover {
     border-radius: 1rem;
     border: 1.5px solid hsl(0, 0%, 7%);
     padding: 1.4rem;  
+    box-shadow: 7px 7px 0px hsl(0, 0%, 7%);
+}
+
+.body-div:hover {
     box-shadow: 10px 10px 0px hsl(0, 0%, 7%);
+}
 }
 
 .learning {
@@ -81,7 +86,7 @@ footer {
 
 @media (min-width: 735px) {
     .body-div {
-        width: 30%;
+        width: 25%;
     }
 }
 
