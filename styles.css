@@ -33,7 +33,7 @@ h1:hover {
 .body-div:hover {
     box-shadow: 10px 10px 0px hsl(0, 0%, 7%);
 }
-}
+
 
 .learning {
     display: inline-block;
@@ -89,21 +89,6 @@ footer {
         width: 25%;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .attribution { font-size: 11px; text-align: center; }
