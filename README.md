@@ -18,7 +18,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [](https://ajmilesomni.github.io/blog-preview-card/)
+- Live Site URL: [Click here to view live page](https://ajmilesomni.github.io/blog-preview-card/)
 
 ### Built with
 
