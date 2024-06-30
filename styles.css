@@ -1,0 +1,105 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    padding: 0;
+    margin: 0;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Figtree", sans-serif;
+    margin-bottom: 0;
+    gap: 1rem;
+}
+
+h1 {
+    font-weight: 800;
+}
+
+h1:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
+.body-div {
+    width: 75%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1rem;
+    border: 1.5px solid hsl(0, 0%, 7%);
+    padding: 1.4rem;  
+    box-shadow: 10px 10px 0px hsl(0, 0%, 7%);
+}
+
+.learning {
+    display: inline-block;
+    background-color: hsl(47, 88%, 63%);
+    padding: 0.4rem 0.8rem;
+    border-radius: 0.3rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+}
+
+.published {
+    font-weight: 500;
+}
+
+.author {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+#author-name {
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-div {
+    width: 100%;
+    border-radius: 1rem;
+    margin-bottom: 1rem; 
+}
+
+.image-avatar {
+    height: 2.5rem;
+    width: 2.5rem;
+    
+}
+
+p {
+    font-size: 1rem;
+    color: hsl(0, 0%, 50%);
+}
+
+footer {
+    margin-bottom: 0;
+    margin-top: 1rem;
+}
+
+
+@media (min-width: 735px) {
+    .body-div {
+        width: 30%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
